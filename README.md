@@ -14,3 +14,5 @@ Please help me complete this project!
 U can grasp the current scenario of my code my going to the
 "**images**" where the input image is stored and the
 "**output**" where the output image is stored.
+
+Note: While viewing the output image please download and view!
